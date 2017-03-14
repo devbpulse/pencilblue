@@ -29,3 +29,4 @@ config.js
 
 npm-debug.log
 **/bower_components
+config.bat
